@@ -1,0 +1,6 @@
+{
+  "name": "Loot Shift: Lockdown",
+  "description": "3D Extraction Survival Game inspired by Loot Shift: Lockdown blueprint. Scavenge abandoned districts, avoid the Warden threat, extract with valuable artifacts, and upgrade your salvage workshop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
