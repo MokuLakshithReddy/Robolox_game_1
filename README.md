@@ -1,5 +1,8 @@
 # Loot Shift: Lockdown — 3D Extraction Game Prototype
 
+[![Forks](https://img.shields.io/github/forks/MokuLakshithReddy/Robolox_game_1?style=flat-square)](https://github.com/MokuLakshithReddy/Robolox_game_1/forks) [![Open Issues](https://img.shields.io/github/issues/MokuLakshithReddy/Robolox_game_1?style=flat-square)](https://github.com/MokuLakshithReddy/Robolox_game_1/issues)
+
+
 A browser-based 3D extraction-survival prototype built with React and Three.js. Start an expedition in the Old Market District, collect artifacts, complete a contract, manage satchel capacity, and reach extraction before the five-minute lockdown timer expires.
 
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=111)](https://react.dev/)
